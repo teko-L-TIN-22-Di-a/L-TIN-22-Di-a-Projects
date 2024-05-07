@@ -27,3 +27,5 @@ https://github.com/PatrickBlatti/RundenbasiertesRPG (Patrick Blatti)
 https://bitbucket.org/priebold/dampfmaschine/src/master/ (Peer Riebold)
 
 https://github.com/mono1010/java-street-fighter (Nicola Schneider)
+
+https://github.com/LiMmyU/TxtRpg (Liam 🔔ner)
