@@ -2,7 +2,7 @@
 
 https://github.com/teko-L-TIN-22-Di-a/Y_Life (Yamina Siegrist)
 
-https://github.com/teko-L-TIN-22-Di-a/jump-dude (Sarah 🍺er)
+https://github.com/teko-L-TIN-22-Di-a/jump-dude (Sarah 	&#129326;)
 
 https://github.com/teko-L-TIN-22-Di-a/TowerDefense (Tobia ✂️)
 
