@@ -16,7 +16,7 @@ https://github.com/Floindil/BOWMASTER (Celin Villars)
 
 https://github.com/Ayax0/OOPFightingGame (Simon Gander)
 
-https://gitlab.com/pbu-teko-projects/fractal-renderer-group/app (Patrick Burkhardt)
+https://gitlab.com/pbu-teko-projects/fractal-renderer-group/app (Patrick Burkhardt ☕)
 
 https://bitbucket.org/fpvmeet/pocket-simon (Joël Theiler)
 
