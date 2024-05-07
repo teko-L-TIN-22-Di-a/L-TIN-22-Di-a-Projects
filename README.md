@@ -6,7 +6,7 @@ https://github.com/teko-L-TIN-22-Di-a/jump-dude (Sarah Birrer)
 
 https://github.com/teko-L-TIN-22-Di-a/TowerDefense (Tobia Schärli)
 
-https://github.com/teko-L-TIN-22-Di-a/pong-
+https://github.com/teko-L-TIN-22-Di-a/pong- (Emanuel &#129348;)
 
 https://github.com/teko-L-TIN-22-Di-a/Modern-Europa (Benny Schärer)
 
