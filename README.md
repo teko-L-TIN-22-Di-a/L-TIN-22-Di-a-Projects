@@ -23,3 +23,7 @@ https://bitbucket.org/fpvmeet/pocket-simon (Joël Theiler)
 https://github.com/Bjoomer/Radibautz (Björn van den Berge)
 
 https://github.com/PatrickBlatti/RundenbasiertesRPG (Patrick Blatti)
+
+https://bitbucket.org/priebold/dampfmaschine/src/master/ (Peer Riebold)
+
+https://github.com/mono1010/java-street-fighter (Nicola Schneider)
