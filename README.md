@@ -31,3 +31,5 @@ https://bitbucket.org/priebold/dampfmaschine/src/master/ (Peer Riebold)
 https://github.com/mono1010/java-street-fighter (Nicola Schneider)
 
 https://github.com/LiMmyU/TxtRpg (Liam 🔔ner)
+
+https://elad.ch/gitblit/summary/~eppya!OOPBattleShip.git   (Yannick Epp)
